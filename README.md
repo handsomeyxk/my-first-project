@@ -1,2 +1,2 @@
-# my-first-project
-SR_project
+# PFAN_SR
+This project is based on BasicSR.
