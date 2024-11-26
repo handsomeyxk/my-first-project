@@ -2,16 +2,14 @@
 This project is based on BasicSR.
 
 Requirements:
-Python >= 3.7
-PyTorch >= 1.7
-BasicSR >= 1.3.5
+>Python >= 3.7
+>PyTorch >= 1.7
+>BasicSR >= 1.3.5
 
 Datasets:
-Training: DIV2K or DF2K.
-
-Testing: Set5, Set14, BSD100, Urban100, Manga109 (Google Drive/Baidu Netdisk).
-
-Preparing: Please refer to the Dataset Preparation of BasicSR.
+>Training: DIV2K or DF2K.
+>Testing: Set5, Set14, BSD100, Urban100, Manga109 (Google Drive/Baidu Netdisk).
+>Preparing: Please refer to the Dataset Preparation of BasicSR.
 
 Train and Test：
 The BasicSR framework is utilized to train our PFAN, also testing.
